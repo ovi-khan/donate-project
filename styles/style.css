@@ -43,11 +43,88 @@
 /* header saction end */
 
 /* donate section start */
+.donate-sec {
+    margin-top: 50px;
+}
 .donate {
     font-size: 50px;
     text-align: center;
 }
 .donate-text {
+    margin-top: 30px;
     text-align: center;
+    font-size: 20px;
+    color: rgb(59, 58, 58);
 }
 /* donate section end */
+.taka {
+    display: flex;
+    /* gap: 0px; */
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 50px;
+    justify-content: center;
+    gap: 2px;
+    /* gap: 110px; */
+    
+    
+    
+}
+
+.taka-amoun {
+    /* text-align: center; */
+    
+    /* margin-left: 160px; */
+    border: 1px solid red;
+    background-color: antiquewhite;
+    padding: 40px;
+    /* padding: 540px; */
+      
+}
+.taka-amount {
+    /* margin-left: 100px; */
+    /* border: 1px solid red; */
+    padding: 40px;
+    background-color: antiquewhite;
+    
+    
+}
+.taka-amount:hover {
+    border: 1px solid red;
+    background-color: antiquewhite;
+    padding: 40px;
+}
+/* other amount */
+.hr-line {
+
+    margin-top: 50px;
+    width: 55%; 
+    justify-content: center; 
+    margin-left: 360px;
+}
+.other-amount {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+.fsc {
+    display: flex;
+    text-align: center;
+    margin-top: 100px;
+    padding: 50px 200px;
+    gap: 50px;
+    text-align: left;
+}
+.fsc-img {
+   height: 100px;
+}
+.fsc-h3 {
+    font-size: 35px;
+    margin-top: 20px;
+    font-weight: 700;
+}
+.fsc-p {
+    font-size: 25px;
+    margin-top: 20px;
+}
+                                                      
